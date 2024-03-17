@@ -41,3 +41,5 @@ for artist_name in artist_name_list_items:
     names = artist_name.contents[0]
     print(names)
     print(names)
+
+
